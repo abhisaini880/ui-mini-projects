@@ -6,5 +6,5 @@ Welcome to the UI Mini Projects repository! This collection features a series of
 
 Here's a list of the projects included in this repository:
 
-1. [Project 1: `<Expanding Cards>`](<VideoLink>)
+1. [Project 1: `<Expanding Cards>`](https://github.com/abhisaini880/ui-mini-projects/blob/main/static/p1-demo.mov)
 
