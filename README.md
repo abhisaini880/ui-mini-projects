@@ -1,3 +1,10 @@
-# ui-mini-projects
+# UI Mini Projects
 
-[Project 1: `<Expanding Cards>`](https://github.com/abhisaini880/ui-mini-projects/static/p1_demo.mov)
+Welcome to the UI Mini Projects repository! This collection features a series of small HTML, CSS, and JavaScript projects to help you learn and improve your web development skills.
+
+## Project List
+
+Here's a list of the projects included in this repository:
+
+1. [Project 1: `<Expanding Cards>`](<VideoLink>)
+
